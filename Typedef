@@ -1,0 +1,22 @@
+//#include <iostream>
+//#include <conio.h>
+//
+//using namespace std;
+//
+//main(){
+//	static struct s1 {
+//	char c[4], *s;
+//	}s1 ={"abcd","fghi"};
+//	 
+//	static struct s2{
+//		char *cp;
+//		struct s1 ss1;
+//	}s2 ={"klmn","pqrs","uvwxyz"};
+//
+//	cout<<"s1.c[2] = "<<s1.c[2]<<","<<"*s1.s= "<<*s1.s<<endl;
+//	cout<<"s1.c = "<<s1.c<<","<<"s1.s= "<<s1.s<<endl;
+//	cout<<"s2.cp= "<<s2.cp<<","<<"s2.ss1.s= "<<s2.ss1.s<<endl;
+//	cout<<"++s2.cp= "<<++s2.cp<<","<<"++s2.ss1.s= "<<++s2.ss1.s;
+//	getch();
+//
+//}
